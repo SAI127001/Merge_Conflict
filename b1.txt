@@ -1,3 +1,8 @@
-b1
+b1 sai
+<<<<<<< HEAD
 
 b1- Modified in master branch
+=======
+b1- modified in first branch
+
+>>>>>>> first
